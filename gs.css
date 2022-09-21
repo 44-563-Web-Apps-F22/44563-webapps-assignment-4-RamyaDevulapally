@@ -1,0 +1,72 @@
+.speech{
+    color:black;
+    font-family: san-serif;
+    font-size: 16px;
+    font-style: normal;
+}
+.song{
+    color: black;
+    font-style: italic;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.direction{
+    color:black;
+    font-family: arial;
+    font-size:14px;
+    background-color: bisque;
+    
+}
+.direction:hover{
+    color: blueviolet;
+    background-color: aqua;
+}
+.rel{
+    color:blue;
+    font-family: Serif ;
+    font-size: 16px;
+    font-style: bold;
+}
+.sai{
+    color:brown;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+    font-size: 16px;
+    font-style:oblique;
+}
+.cap{
+    color:chartreuse;
+    font-family: Cursive;
+    font-size: 16px;
+    font-style:italic;
+}
+.heb{
+    color:forestgreen;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 16px;
+    font-style:oblique;
+}
+.sir{
+    color:darkslateblue;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    font-style: initial;
+}
+.all{
+    color:black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    font-style: italic;
+}
+.song_name{
+    color:black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    font-style: oblique;
+}
+.chorus{
+    color:black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px;
+    font-style: bold;
+}
