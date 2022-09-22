@@ -28,11 +28,23 @@
     font-size: 16px;
     font-style: bold;
 }
+.rel:hover{
+    color:aqua;
+    background-color:blue;
+    text-shadow: 2px 2px 5px red;
+    border-style:dotted;
+}
 .sai{
     color:brown;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
     font-size: 16px;
     font-style:oblique;
+}
+.sai:hover{
+    color:aqua;
+    background-color:blue;
+    text-shadow: 2px 2px 4px blueviolet;
+    border-style:dashed;
 }
 .cap{
     color:chartreuse;
@@ -40,17 +52,36 @@
     font-size: 16px;
     font-style:italic;
 }
+.cap:hover{
+    color:brown;
+    background-color:blanchedalmond;
+    text-shadow: 2px 2px 2px rgb(43, 189, 226);
+    border-style:double;
+}
 .heb{
     color:forestgreen;
     font-family:'Courier New', Courier, monospace;
     font-size: 16px;
     font-style:oblique;
 }
+.heb:hover{
+    color:coral;
+    background-color:chartreuse;
+    text-shadow: 2px 2px 3px rgb(226, 43, 141);
+    border-style:groove;
+}
 .sir{
     color:darkslateblue;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 16px;
     font-style: initial;
+}
+.sir:hover{
+    color:cornflowerblue;
+    background-color:cyan;
+    text-shadow: 2px 2px 4px rgb(43, 226, 119);
+    
+    border-style:ridge;
 }
 .all{
     color:black;
